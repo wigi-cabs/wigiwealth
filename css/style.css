@@ -410,6 +410,13 @@ html{
     .secondHalf img{
         width:100%;
     }
+    .background {
+        background: rgba(0, 0, 0, 0.7) url('https://wallpaperaccess.com/full/5785548.jpg');
+        background-size: cover;
+        /* background-blend-mode: darken; */
+        background-attachment: fixed;
+    
+    }
     
 
 }
