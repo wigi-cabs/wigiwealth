@@ -407,6 +407,9 @@ html{
         padding: 0px;
         margin: 20px;
     }
+    .secondHalf img{
+        width:100%;
+    }
     
 
 }
