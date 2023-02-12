@@ -333,7 +333,7 @@ html{
 }
 @media only screen and (max-width: 1200px){
     .secondHalf img{
-        width: 100% ! important;
+        width: 77% ! important;
     }
     .background{
         background: rgba(0, 0, 0, 0.7) url('https://wallpaperaccess.com/full/5785548.jpg');
